@@ -62,12 +62,15 @@ The project applies traditional Machine Learning and NLP techniques and evaluate
 
 ---
 
-##  Tech Stack
-- Python
-- Natural Language Processing (NLP)
-- Scikit-learn
-- XGBoost
-- Pandas & NumPy
-- Matplotlib & Seaborn
+##  Impacts
+
+The project enables airlines to:
+- Automatically monitor large volumes of customer feedback at scale
+- Identify negative sentiment trends related to service disruptions or customer dissatisfaction
+- Support faster, data-driven responses to customer issues
+- Improve overall customer experience through sentiment-aware decision-making
+- Reduce reliance on manual analysis by leveraging automated classification
+- Deploy a cost-effective solution using traditional ML models that perform well on noisy text data
+
 
 ---
