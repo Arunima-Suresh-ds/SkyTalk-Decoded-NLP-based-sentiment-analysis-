@@ -1,4 +1,9 @@
 # SkyTalk-Decoded-Automated-Sentiment-Intelligence-from-Airline-Twitter-Data
+![Python](https://img.shields.io/badge/Python-3.8+-black?style=flat&logo=python)
+![Task](https://img.shields.io/badge/Task-Twitter%20Sentiment%20Analysis-orange)
+![Technique](https://img.shields.io/badge/Technique-TF--IDF%20%7C%20NLP-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 SkyTalk Decoded is an NLP-based sentiment analysis project that automatically classifies airline-related tweets into **Positive, Neutral, or Negative** sentiments. The goal is to help airlines monitor customer feedback at scale and gain actionable insights from social media conversations.
 The project applies traditional Machine Learning and NLP techniques and evaluates multiple models to identify the best-performing classifier.
 
